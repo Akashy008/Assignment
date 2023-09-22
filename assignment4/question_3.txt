@@ -1,0 +1,13 @@
+Accessibility-
+ANS- Web Accessibility is practice of creating web content to accessible for everyone. it ensures people with disabilities can perceive, understand, navigate, and interact with websites and web applications effectively. The main goal of web accessiblity is to make website more easy to understand by every group of people regardless of their ability or disability.
+
+Why it's essential to create accessible website?
+ans- There are many reasons to create a accesiible website , discussing below-
+
+1- SEO-  Accessible websites tend to have better SEO. Search engines like Google consider factors such as page load times, structured content, and mobile-friendliness when ranking websites. These factors are closely related to web accessibility best practices.
+
+2- Improved User Experience-  Accessibility features often improve the overall user experience for all users. For example, well-structured and semantically coded content is easier for everyone to understand, and keyboard navigation can benefit those who prefer to navigate without a mouse.
+
+3-Wider Audience Reach- By making your website accessible, you open it up to a broader audience. People with disabilities make up a significant portion of the population, and they should not be excluded from accessing your content or services. This can lead to increased user engagement and business opportunities.
+
+4-Legal Compliance- Many countries have laws and regulations that require websites to be accessible. Failure to comply with these regulations can lead to legal consequences, including fines and lawsuits. Ensuring accessibility helps organizations avoid legal liabilities.

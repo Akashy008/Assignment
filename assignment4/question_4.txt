@@ -1,0 +1,18 @@
+3 ways that help to improve accessibilty in html -
+ Ans-
+ 1- Using semantic HTML element-
+ Using proper semantic element provide a good web structure and this also help user to understand the web page- Their are some example of semantic elemnt-
+ Some key semantic elements include:
+<nav>- Use this element for navigation menus.
+<header>- For the top section of your page, which may contain logos and headings.
+<main>- To mark the main content of your page.
+<section>- To define sections of content within your page.
+<article>- To mark self-contained articles or content within a page.
+<aside>- For content that is tangentially related to the main content.
+<footer>- For the bottom section of your page, which typically contains copyright information.
+
+2- Provide description for images- 
+When adding image to HTML we can provide description to image by using 'alt' attribute in img tag. Alt text should convey the detail and crystal clear content of image , it will help those who are generally depend on screen reader accessibility.
+
+3- Text Alternatives for Media Elements- 
+Beyond images, ensure that other media elements, such as videos and audio files, also have text alternatives. Use the <video> and <audio> elements' <track> element to provide captions and transcripts for multimedia content. This helps users who are deaf or hard of hearing access the information.

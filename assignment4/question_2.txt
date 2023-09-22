@@ -1,0 +1,10 @@
+Ques-HTML entities and frequently used entities.
+
+Ans- HTML entities are reserved character that are used in HTML document.  Entities are frequently used to display reserved characters, and invisible characters (like non-breaking spaces). You can also use them in place of other characters that are difficult to type with a standard keyboard.
+
+ A 5 frequently used entities.
+1-  (&)	&amp;	Interpreted as the beginning of an entity or character reference.
+2- (<) (&lt);	Interpreted as the beginning of a tag
+3- (>) (&gt);	Interpreted as the ending of a tag
+4- (")	&quot;	Interpreted as the beginning and end of an attribute's value.
+5- (–)	&ndash;	Interpreted as the en dash (half the width of an em unit).

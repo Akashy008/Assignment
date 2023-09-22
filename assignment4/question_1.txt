@@ -1,0 +1,17 @@
+Features of HTML 5-
+ans-
+Hypertext Markup Language, which is used to structure content on the web. HTML5 introduced us some of the new features which are following-
+
+1-Semantic Elements: HTML5 introduced new semantic elements such as <header>, <footer>, <nav>, <article>, <section>, and <aside>. These elements help us to use exact tag which is needed. It helps in Search Engine Optimization as well.
+
+2-Multimedia Support: HTML5 includes built-in feature for the audio and video playback.You can use the <audio> and <video> elements to embed media content directly into web pages. We can also attach media from other web pages and from our local storage as well.
+
+3- Web storage- HTML5 introduce us with 2 side storage option, local storage and session storage. These provide us a new way to store data on the user's device, making it accessible even after the user closes the browser.
+
+4- Improved Accessibility: HTML5 includes features like ARIA (Accessible Rich Internet Applications) attributes and native support for video captions and audio descriptions, making it easier to create accessible web content.
+
+5-Form Enhancements: HTML5 introduced new input types, such as email, url, tel, and number, as well as attributes like required and pattern for more robust form validation.
+
+
+
+
