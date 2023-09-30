@@ -1,5 +1,7 @@
 form{
     background-color: rgb(118, 95, 220);
+    height: 300px;
+    width: 300px;
 }
 input{
     background-color: rgba(39, 199, 119);
