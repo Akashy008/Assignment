@@ -1,0 +1,18 @@
+.paragraph{
+    background-color: aqua;
+    color: black;
+}
+.paragraph--article{
+    background-color: bisque;
+}
+.paragraph--details{
+    background-color: cadetblue;
+
+}
+.paragraph--article{
+    background-color: chartreuse;
+
+}
+.paragraph--dates{
+    background-color: beige;
+}
