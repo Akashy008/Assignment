@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    .grid-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            justify-items: start; /* Align all items to the start of their cells */
+            }
+
+      
+    .grid-item {
+        background-color: lightblue;
+        border: 1px solid #333;
+        width: 200px;
+        height: 200px;
+        }
+        
+    .grid-item2{
+        background-color: lightblue;
+        width: 200px;
+        height: 200px;
+        border: 1px solid #333;
+        justify-self: end;
+    }
+    </style>
+</head>
+<body>
+    <h1> Difference between justify-items and justify-self</h1>
+    <p>In CSS Grid Layout, justify-items and justify-self are properties used to control the horizontal alignment (along the inline axis) of grid items within a grid container, they are applied at different levels and have distinct purposes.
+    <b>justify-items</b> is applied to the grid container and defines the default horizontal alignment for all grid items within the grid.
+    It affects all the grid items uniformly, setting their horizontal alignment within their respective grid cells.
+    </p>
+
+    <div class="grid-container">
+        <div class="grid-item">1</div>
+        <div class="grid-item2">2</div>
+    </div>
+
+
+
+</body>
+</html>

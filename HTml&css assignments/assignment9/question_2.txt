@@ -1,0 +1,11 @@
+Property in flexbox layout model.
+
+1- Justify-content - Justify-content is property  used to control the horizontal alignment and distribution of items along the main axis of a flex container, (we can also change the direction of its use by giving flex direction to container), properties we use in justify-content is flex-end, flex-start, center, space-between etc. 
+
+Align-items- ALIGN-iTEMS is property used to control the vertical alignment and distribuiton of item along the cross axis of a flex container. By default, align-items is set to stretch, which means that flex items will stretch to fill the cross-axis of the container, properties we use in align-item is flex-start, flex-end, center baseline etc
+
+Gap- In css flex box gap property used to specify the gap between flex elements, WE can use gap as row-gap, column-gap as well ,  It sets the gap or spacing between adjacent items within a container after using flex property.
+
+Flex-Direction- is a CSS property used to control the direction in which flex items are arranged inside a flex container. It specify the main axis and the direction in which flex items flow within the container.
+
+Flex-wrap-  is a CSS property used in Flexbox layouts to control how flex items should wrap or not wrap within a flex container when there's not enough space along the main axis to give proper space to them.

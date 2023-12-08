@@ -1,9 +1,0 @@
-4-Write a short note on Tag and element with an example?
-
-Answer-Tag- Markup tags are usually called as HTML tag. They begin with opeining tag and end with closing tag.
-Example- 
- <h1></h1> - is known as opening tag, closing tag .
-Element- An HTML element is defined by a starting tag( <>), some content in middle, it ends with a closing tag( </>). 
-Example-
-<h1>content</h1>-
-This is called an element. <h1> is starting tag,</h1> is closing tag

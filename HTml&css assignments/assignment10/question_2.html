@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .container{
+        display: grid;
+        grid-template-areas: 
+        "Top Top Top2"
+        "Left MidTwo Top2"
+        ;
+        gap: 10px;
+        grid-template-rows: repeat(2,100px);
+    }
+    
+    .boxa{
+        grid-area: Top ;
+        background-color: rgb(235, 209, 124);
+        padding: 50px;
+    }
+    .boxb{
+        grid-area: Top2;
+        background-color: rgb(235, 209, 124);
+        padding: 50px;
+    }
+    .boxc{
+        grid-area: Left;
+        background-color: rgb(235, 209, 124);
+        padding: 50px;
+    }
+    .boxd{
+        grid-area: MidTwo;
+        background-color: rgb(235, 209, 124);
+        padding: 50px;
+    }
+    
+</style>
+<body>
+    <div class="container"> 
+        <div class="boxa">A</div>
+        <div class="boxb">B</div>
+        <div class="boxc">C</div>
+        <div class="boxd">D</div>
+    </div>
+</body>
+</html>

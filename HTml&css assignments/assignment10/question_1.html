@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .photos{
+        display: grid;
+        grid-template-areas: 
+        "Top Top Top2"
+        "Left Mid End"
+        "Left MidTwo End"
+        ;
+        gap: 10px;
+
+        grid-template-rows: repeat(3,200px);
+    }
+    
+    img{
+        width: 100%;
+        height: 100%;
+    }
+    .photo1{
+        grid-area: Top ;
+    }
+    .photo2{
+        grid-area: Top2;
+    }
+    .photo3{
+        grid-area: Left;
+    }
+    .photo4{
+        grid-area: Mid;
+
+    }
+    .photo5{
+        grid-area: MidTwo;
+
+    }
+    .photo6{
+        grid-area: End;
+
+    }
+</style>
+<body>
+    <div class="photos">
+        <div class="photo1">
+            <img src="question1img/asian-paints.jpg"alt="image1"/>
+        </div>
+
+        <div class="photo2">
+            <img src="question1img/3-asian-paints.jpg"alt="image2"/>
+        </div>
+
+        <div class="photo3"> 
+            <img src="question1img/doctor.jpg" alt="image3"/> 
+        </div>
+
+        <div class="photo4">
+            <img src="question1img/green.png"alt="image4"/>
+        </div>
+
+        <div class="photo5">
+            <img src="question1img/photo-6074935.jpeg"alt="image5"/>
+        </div>
+                             
+        <div class="photo6">
+            <img src="question1img/Dupixent¬-approved-by-EC-as.jpg"alt="image6"/>
+        </div>
+    </div>
+</body>
+</html>

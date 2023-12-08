@@ -1,0 +1,1 @@
+let qualco = 6
